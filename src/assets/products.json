@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Tocofre-400",
+      "salt_description": "Vitamin E, Vitamin C & Wheat Germ oil Softgel Capsules",
+      "description": "A powerful antioxidant supplement that helps nourish skin and boost immunity.",
+      "bynow_link": "https://www.1mg.com/otc/tocofre-400-capsule-otc947378?wpsrc=Google+Organic+Search",
+      "images": ["assets/wbc_product_image/tocofre400_f.jpg"]
+    },
+    {
+      "name": "Dotex-80",
+      "salt_description": "Drotaverine 80 mg Hydrochloride Tablet",
+      "description": "Used to relieve smooth muscle spasms in conditions like renal colic and irritable bowel syndrome.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/Dotex_frunt2.jpeg"]
+    },
+    {
+      "name": "Dotex-MF",
+      "salt_description": "Drotaverine 80 mg + Hydrochloride + Mefenamic Acid 250 mg Tablet",
+      "description": "A combination medicine effective in relieving pain and spasms associated with menstrual cramps and gastrointestinal conditions.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/dotex-mf.jpg"]
+    },
+    {
+      "name": "Reywell",
+      "salt_description": "Raebeprazole Sodium Powder 20 mg",
+      "description": "A proton pump inhibitor used to reduce stomach acid production and treat GERD and ulcers.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/reywell.jpg"]
+    },
+    {
+      "name": "Dopivit",
+      "salt_description": "Nutritional Supplement for GI Tolerence",
+      "description": "A specialized nutritional supplement designed to support gastrointestinal health and digestion.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/dopivit.jpg"]
+    },
+    {
+      "name": "Tocofre-E",
+      "salt_description": "Natural Vitamin E Softgel",
+      "description": "A natural source of Vitamin E that promotes skin health, cardiovascular wellness, and immune function.",
+      "bynow_link": "https://www.1mg.com/otc/tocofre-e-capsule-otc947380",
+      "images": ["assets/wbc_product_image/tocofreE_frunt.jpeg"]
+    },
+    {
+      "name": "Innowell",
+      "salt_description": "Isabgol Husk & Bel Powder",
+      "description": "A fiber-rich supplement that aids digestion and relieves constipation naturally.",
+      "bynow_link": "https://www.1mg.com/otc/innowell-powder-otc947398",
+      "images": ["assets/wbc_product_image/Innowell_f.jpg"]
+    },
+    {
+      "name": "Zwell",
+      "salt_description": "Methylcobalamin Multivitamin Zinc",
+      "description": "A multivitamin formulation enriched with methylcobalamin and zinc to support nerve health and immunity.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/zwell.jpg"]
+    },
+    {
+      "name": "Dopivit +",
+      "salt_description": "Complete Renal Nutrition",
+      "description": "A specialized nutritional drink formulated for individuals with kidney-related health concerns.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/dopivit+_f.jpg"]
+    },
+    {
+      "name": "Dopivit-P",
+      "salt_description": "Enrich with Milk Protein, Carbohydrate with DHA",
+      "description": "A nutritional supplement containing milk protein, carbohydrates, and DHA to support overall growth and development.",
+      "bynow_link": "https://www.1mg.com/otc/dopivit-p-protein-powder-chocolate-otc947387",
+      "images": ["assets/wbc_product_image/dopivit-p_1.jpg"]
+    },
+    {
+      "name": "Dopivit-Plus",
+      "salt_description": "Ginseng Multimineral Softgel Capsule",
+      "description": "A revitalizing supplement with ginseng and multiminerals to boost energy and immunity.",
+      "bynow_link": "https://www.1mg.com/otc/dopivit-plus-dopivit-plus-capsule-otc947383",
+      "images": ["assets/wbc_product_image/Dopivitp_f.jpg"]
+    },
+    {
+      "name": "Laxit-90",
+      "salt_description": "Lactitol Monohydrate & Ispaghula Husk Granules",
+      "description": "A gentle laxative formulation that aids in bowel movement and relieves chronic constipation.",
+      "bynow_link": "#",
+      "images": ["assets/wbc_product_image/laxit-90.jpg"]
+    }
+  ]
+  

@@ -18,7 +18,7 @@
       "salt_description": "Drotaverine 80 mg + Hydrochloride + Mefenamic Acid 250 mg Tablet",
       "description": "A combination medicine effective in relieving pain and spasms associated with menstrual cramps and gastrointestinal conditions.",
       "bynow_link": "#",
-      "images": ["assets/wbc_product_image/dotex-mf.jpg"]
+      "images": ["assets/wbc_product_image/dotexmf.jpg"]
     },
     {
       "name": "Reywell",
@@ -31,7 +31,7 @@
       "name": "Dopivit",
       "salt_description": "Nutritional Supplement for GI Tolerence",
       "description": "A specialized nutritional supplement designed to support gastrointestinal health and digestion.",
-      "bynow_link": "#",
+      "bynow_link": "https://www.1mg.com/otc/dopivit-peptide-powder-vanilla-sugar-free-otc1077319",
       "images": ["assets/wbc_product_image/dopivit.jpg"]
     },
     {
@@ -81,7 +81,7 @@
       "salt_description": "Lactitol Monohydrate & Ispaghula Husk Granules",
       "description": "A gentle laxative formulation that aids in bowel movement and relieves chronic constipation.",
       "bynow_link": "#",
-      "images": ["assets/wbc_product_image/laxit-90.jpg"]
+      "images": ["assets/wbc_product_image/laxit.jpg"]
     }
   ]
   

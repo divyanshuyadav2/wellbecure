@@ -23,11 +23,13 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-               {
-                  "input": "src/assets/sitemap.xml",
-                  "output": "sitemap.xml"
-                }
+              {
+                "glob": "sitemap.xml",
+                "input": "src/assets",
+                "output": ""
+              }
             ],
+
             "styles": [
               "src/styles.css"
             ],

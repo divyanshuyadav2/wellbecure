@@ -25,8 +25,7 @@
               "src/assets",
                {
                   "input": "src/assets/sitemap.xml",
-                  "output": "sitemap.xml",
-                  "glob": "**/*"
+                  "output": "sitemap.xml"
                 }
             ],
             "styles": [

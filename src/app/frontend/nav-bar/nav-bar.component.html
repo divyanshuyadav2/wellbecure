@@ -14,7 +14,7 @@
   <!-- Hidden on mobile, visible on medium and larger screens -->
   <div class="hidden md:flex space-x-6 text-gray-700">
     <div class="flex items-center">
-      <span>📞</span> <span>040-27818822</span>
+      <span>📞</span> <span>+91 8840985052</span>
     </div>
     <div class="flex items-center">
       <span>✉️</span> <span>{{companyEmail}}</span>
@@ -31,14 +31,17 @@
     <!-- Main Navigation -->
     <nav class="container mx-auto flex items-center justify-between px-4 py-3 border-t border-gray-200">
       <!-- Logo (for small screens) -->
-      <div class="text-2xl font-bold text-orange-600 lg:hidden">
-        <img src="assets/logo.png" alt="Logo" class="w-10 h-10">
-      </div>
-      <div class="hidden sm:flex items-center space-x-2">
-        <img src="assets/logo.png" alt="Logo" class="w-14 h-12"> <!-- Replace with your logo image -->
-        <span class="text-2xl font-bold text-orange-600">Wellbecure Pharmaceuticals Pvt. Ltd</span>
-      </div>
-      
+        <!-- Logo (for small screens only) -->
+    <div class="text-2xl font-bold text-orange-600 block lg:hidden md:hidden">
+      <img src="assets/logo.png" alt="Logo" class="w-10 h-10">
+    </div>
+
+    <!-- Logo (for medium and larger screens only) -->
+    <div class="hidden md:flex items-center space-x-2">
+      <img src="assets/logo.png" alt="Logo" class="w-14 h-12">
+      <span class="text-2xl font-bold text-orange-600">Wellbecure Pharmaceuticals Pvt. Ltd</span>
+    </div>
+        
       <!-- Hamburger Menu Button (Mobile Only) -->
       <div class="lg:hidden">
         <button
